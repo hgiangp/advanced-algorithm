@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "limits": "cpp",
+        "valarray": "cpp",
+        "algorithm": "cpp",
+        "barrier": "cpp",
+        "latch": "cpp",
+        "semaphore": "cpp"
+    },
+    "editor.fontSize": 13
+}
